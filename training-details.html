@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Training Details</title>
+</head>
+<body>
+    <h1 id="title"></h1>
+    <p><strong>Overview:</strong> <span id="overview"></span></p>
+    <p><strong>Importance:</strong> <span id="importance"></span></p>
+    <p><strong>Purpose:</strong> <span id="purpose"></span></p>
+    
+    <h2>Why Choose This Course?</h2>
+    <ul id="why-choose"></ul>
+<h2>Exam Details</h2>
+    <table id="exam-details-table">
+        <thead>
+            <tr>
+                <th>Section</th>
+                <th>Questions</th>
+                <th>Duration</th>
+                <th>Scoring</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <h2>Course Duration</h2>
+    <p id="duration"></p>
+        <div id="faqi"></div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const index = urlParams.get("index");
+
+            if (index === null) {
+                document.body.innerHTML = "<h1>Invalid Training Selection</h1>";
+                return;
+            }
+
+            fetch('training.json')
+                .then(response => response.json())
+                .then(data => {
+                    const exam = data.exams[index];
+
+                    if (!exam) {
+                        document.body.innerHTML = "<h1>Training Not Found</h1>";
+                        return;
+                    }
+
+                    document.getElementById("title").textContent = exam.title;
+                    document.getElementById("overview").textContent = exam.course_description.overview;
+                    document.getElementById("importance").textContent = exam.course_description.importance;
+                    document.getElementById("purpose").textContent = exam.course_description.purpose;
+                    let reasonsList = document.getElementById("why-choose");
+                    exam.why_choose.forEach(reason => {
+                        let li = document.createElement("li");
+                        li.innerHTML = `<strong>${reason.reason}:</strong> ${reason.description}`;
+                        reasonsList.appendChild(li);
+                    });
+                    let faq = document.getElementById("faqi");
+                    exam.faqs.forEach(faqs => {
+                        let li = document.createElement("li");
+                        li.innerHTML = `<strong><p>${faqs.question}</p></strong><p>${faqs.answer}</p>`;
+                        faq.appendChild(li);
+                    });
+
+
+                    let examDetailsTable = document.getElementById("exam-details-table").querySelector("tbody");
+                        exam.exam_details.section_breakdown.forEach(section => {
+                        let row = `<tr>
+                        <td>${section.section_name}</td>
+                        <td>${section.questions}</td>
+                        <td>${section.duration}</td>
+                        <td>${section.scoring}</td>
+                        </tr>`;
+                        examDetailsTable.innerHTML += row;
+                    });
+
+
+                    document.getElementById("duration").textContent = exam.course_info.duration;
+                })
+                .catch(error => console.error("Error fetching training data:", error));
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,405 @@
+
+    [{
+            "university_name": "London South Bank University",
+            "city": "London",
+            "country": "UK",
+            "intake": "Jan",
+            "about_college": "London South Bank University (LSBU) can be traced back to the foundation of Borough Polytechnic Institute in South London in the year 1892. In 1956, it was granted with the status of a Regional College of Technology. In 1970, the Polytechnic merged with the Brixton School of Building, the National College of Heating, Ventilating, Refrigeration and Fan Engineering and the City of Westminster College to form the Polytechnic of the South Bank. In 1987, the Polytechnic was renamed as South Bank Polytechnic and was given the right to confer research degrees in 1990. The next year, it merged with South West London College and Central Catering College at Waterloo. It received university status in 1992 and became South Bank University. It was finally given its current name on 1st September 2003...",
+            "facilities": [
+            "Hi-tech laboratories",
+            "Student Centre",
+            "Perry Library",
+            "Clarence Centre",
+            "Keyworth Event Theatre",
+            "On-campus accommodation",
+            "Academy of Sports",
+            "Havering campus for nursing students"
+            ],
+            "notable_alumni": [
+            "Karl Burnett (HR Director at BBC)",
+            "Fleur Bothwick (Head of Diversity at Ernst & Young)",
+            "David Frost (British Chambers of Commerce director-general)",
+            "Anne Milton (Lord Commissioner of HM Treasury)",
+            "Frank Brake (Co-founder of Brake Bros Frozen Foods)",
+            "Gary Bassett (Head of Patient Experience in London Ambulance Service)",
+            "Kevin McGrath (Property investor, M&M Asset Management)",
+            "Peter Rees (Former City of London's Chief Planning Officer)"
+            ],
+        "courses": [
+            {
+            "course_name": "Building Services Engineering MSc",
+            "duration": "16 Months",
+            "fee": "GBP 13780.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "Engineering"
+            },
+            {
+            "course_name": "International Finance MSc",
+            "duration": "15 Months",
+            "fee": "GBP 13780.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "International Finance"
+            },
+            {
+            "course_name": "Refugee Studies MSc",
+            "duration": "12 Months",
+            "fee": "GBP 13780.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "Refugee Studies"
+            },
+            {
+            "course_name": "Business Foundation Course",
+            "duration": "12 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Foundation",
+            "field_study": "Business"
+            },
+            {
+            "course_name": "Arts and Creative Industries MRes",
+            "duration": "12 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "Arts and Creative Industries"
+            },
+            {
+            "course_name": "Data Science MSc",
+            "duration": "12 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "Data Science"
+            },
+            {
+            "course_name": "Mechanical Engineering MSc",
+            "duration": "12 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "Engineering"
+            },
+            {
+            "course_name": "Primary PGCE",
+            "duration": "12 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "PGCE",
+            "field_study": "Education"
+            },
+            {
+            "course_name": "Computer Science BSc (Hons)",
+            "duration": "36 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Under Graduation",
+            "field_study": "Computer Science"
+            },
+            {
+            "course_name": "Mechanical Engineering BEng (Hons)",
+            "duration": "36 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Under Graduation",
+            "field_study": "Engineering"
+            },
+            {
+            "course_name": "Journalism BA (Hons)",
+            "duration": "36 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Under Graduation",
+            "field_study": "Journalism"
+            },
+            {
+            "course_name": "Bioscience BSc (Hons)",
+            "duration": "36 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Under Graduation",
+            "field_study": "Biosciences"
+            },
+            {
+            "course_name": "Psychology MSc",
+            "duration": "12 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.5 / 6.0",
+            "level_of_study": "Post Graduation",
+            "field_study": "Psychology"
+            },
+            {
+            "course_name": "Creative Advertising with Marketing BA (Hons)",
+            "duration": "36 Months",
+            "fee": "GBP 14470.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Under Graduation",
+            "field_study": "Creative Advertising"
+            },
+            {
+            "course_name": "International Diploma Programme",
+            "duration": "12 Months",
+            "fee": "GBP 13780.00",
+            "ielts_no_band_it": "6.0 / 5.5",
+            "level_of_study": "Diploma",
+            "field_study": "International Diploma Programme"
+            }
+        ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "university_name": "University of Bolton",
+    "city": "Bolton, Manchester",
+    "country": "UK",
+    "intake": "September",
+    "about": "The University of Bolton (formerly Bolton Institute of Higher Education, Bolton Institute of Technology or simply Bolton Institute) is a public university in Bolton, Greater Manchester, England. It has approximately 6,000 students and 700 academic and professional staff. Around 70% of its students come from Bolton and the North West region.",
+    "facilities": [
+      "State-of-the-art laboratories",
+      "University Library",
+      "On-campus accommodation",
+      "Sports & Fitness Centre",
+      "Engineering & Innovation Centre",
+      "Art & Design Studios",
+      "Health & Social Care Simulation Suites",
+      "Student Union & Social Spaces"
+    ],
+    "notable_alumni": [
+      "Sir David Crausby (British Politician, MP for Bolton North East)",
+      "Michael H. Kenyon (British Engineer & Academic)",
+      "Jason Kenny (Olympic Gold Medalist in Cycling)",
+      "Karl Marginson (Former Footballer & Manager)",
+      "Mark Radcliffe (BBC Radio Presenter)",
+      "Amir Khan (Professional Boxer, Former World Champion)",
+      "Fiona Armstrong (British Journalist & News Presenter)"
+    ],
+    "courses": [
+      {
+        "course_name": "MSc System Engineering (Electronic) and Engineering Management",
+        "duration": "18 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 6.0,
+          "individual": 5.5
+        },
+        "level_of_study": "Post Graduation",
+        "field_study_study": "Engineering"
+      },
+      {
+        "course_name": "MSc International Management",
+        "duration": "12 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 6.5,
+          "individual": 6.0
+        },
+        "level_of_study": "Post Graduation",
+        "field_study_study": "International Management"
+      },
+      {
+        "course_name": "MSc Civil Engineering",
+        "duration": "12 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 6.0,
+          "individual": 5.5
+        },
+        "level_of_study": "Post Graduation",
+        "field_study_study": "Engineering"
+      },
+      {
+        "course_name": "MA Social Work",
+        "duration": "24 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 7.0,
+          "individual": 6.5
+        },
+        "level_of_study": "Post Graduation",
+        "field_study_study": "Social Work"
+      },
+      {
+        "course_name": "MSc Accountancy and Financial Management",
+        "duration": "18 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 6.5,
+          "individual": 6.0
+        },
+        "level_of_study": "Post Graduation",
+        "field_study_study": "Accountancy and Financial Management"
+      },
+      {
+        "course_name": "MSc Engineering Management",
+        "duration": "18 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 6.5,
+          "individual": 6.0
+        },
+        "level_of_study": "Post Graduation",
+        "field_study_study": "Engineering Management"
+      },
+      {
+        "course_name": "BTEC Level 5 - Higher National Diploma in Electrical and Electronic Engineering",
+        "duration": "24 Months",
+        "fee": "GBP 12450.00",
+        "ielts_no_band_it": {
+          "overall": 6.0,
+          "individual": 5.5
+        },
+        "level_of_study": "Under Graduation",
+        "field_study_study": "Engineering"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "university_name": "York St John University",
+  "city": "York",
+  "country": "UK",
+  "intake": "Sep",
+  "about_college": "York St John University (originally established as York Diocesan College) is a public university located on a large urban campus in York, England. It achieved university status in 2006 and in 2015 the University was given research degree awarding powers for PhD and doctoral programmes. It is one of several higher education institutions that have religious foundations. In 2019/20, there were 7,000 students, reading a wide variety of subjects, in five Schools: School of the Arts; School of Education, Language and Psychology; School of Humanities; School of Science, Technology and Health; and York Business School.",
+  "facilities": [
+    "Modern library with extensive digital and physical resources",
+    "State-of-the-art laboratories and research centers",
+    "Sports facilities including gym, football pitches, and indoor courts",
+    "Dedicated student support and career services",
+    "On-campus accommodation with various living options",
+    "Student Union with clubs, societies, and events",
+    "Art and media studios for creative programs",
+    "Cafeterias, dining halls, and coffee shops",
+    "24/7 IT support and study spaces",
+    "Health and wellness center"
+  ],
+  "notable_alumni": [
+    "Jodie Whittaker (Actress, Doctor Who)",
+    "Harry Gration (BBC Broadcaster)",
+    "Annie Gray (Food Historian, BBC Presenter)",
+    "Jason Manford (Comedian and Actor)"
+  ],
+  "courses": [
+    {
+      "course_name": "Business Degrees with Foundation Year (Placement Year)",
+      "duration": "60 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Under Graduation, Foundation",
+      "field_study_study": "Business"
+    },
+    {
+      "course_name": "Education Degrees with Foundation Year BA (Hons)",
+      "duration": "48 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Under Graduation, Foundation",
+      "field_study_study": "Education"
+    },
+    {
+      "course_name": "Humanities with Foundation Year",
+      "duration": "48 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Foundation",
+      "field_study_study": "Humanities with Foundation"
+    },
+    {
+      "course_name": "Human Resource Management MSc",
+      "duration": "12 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Post Graduation",
+      "field_study_study": "Human Resource Management"
+    },
+    {
+      "course_name": "International Business MSc",
+      "duration": "12 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Post Graduation",
+      "field_study_study": "International Business"
+    },
+    {
+      "course_name": "Football Business Management BA(Hons) with Foundation Year",
+      "duration": "48 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Under Graduation, Foundation",
+      "field_study_study": "Football Business Management"
+    },
+    {
+      "course_name": "Business Management BA (Hons) with Placement Year",
+      "duration": "48 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Under Graduation",
+      "field_study_study": "Business Management"
+    },
+    {
+      "course_name": "Interior Design BA (Hons)",
+      "duration": "36 Months",
+      "fee": "GBP 12750.00",
+      "ielts_no_band_it": "6.0 / 5.5",
+      "level_of_study": "Under Graduation",
+      "field_study_study": "Interior Design"
+    }
+  ]
+}
+]
+
+

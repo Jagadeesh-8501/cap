@@ -1,0 +1,34 @@
+[
+  {
+    "city": "Dubai",
+    "university_name": "Murdoch University Dubai",
+    "intake": ["January", "May", "September"],
+    "country": "Dubai",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/09/Murdoch-University-Dubai.jpg",
+    "viewcourse":"https://careeradvicepoint.com/murdoch-university-dubai/"
+  },
+  {
+    "city": "Jonkoping",
+    "university_name": "Jonkoping University",
+    "intake": ["August"],
+    "country": "Dubai",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/09/330px-JU_A_sv.jpg",
+    "viewcourse":"https://careeradvicepoint.com/jonkoping-university/"
+  },
+  {
+    "city": "Dubai Knowledge Park",
+    "university_name": "University of Wollongong in Dubai (UOWD)",
+    "intake": ["January", "May", "August"],
+    "country": "Dubai",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/09/images.jpg",
+    "viewcourse":"https://careeradvicepoint.com/university-of-wollongong-in-dubai/"
+  },
+  {
+    "city": "Dubai Campus",
+    "university_name": "Amity University Dubai",
+    "intake": ["January", "September"],
+    "country": "Dubai",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pMfLKPzTrsH5oherZSZ0_eb2kxOhTeYEnQ&s",
+    "viewcourse":"https://careeradvicepoint.com/amity-university-dubai/"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "city": "Columbia",
+    "university_name": "University of South Carolina",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-South_Carolina_Gamecocks_logo.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-south-carolina/"
+  },
+  {
+    "city": "Baton Rouge",
+    "university_name": "Louisiana State University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Louisiana_State_University_seal.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/louisiana-state-university/"
+  },
+  {
+    "city": "Riverside",
+    "university_name": "University of California, Riverside",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-UC_Riverside_seal.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-california-riverside/"
+  },
+  {
+    "city": "Salt Lake City",
+    "university_name": "The University of Utah",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-University_of_Utah_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/the-university-of-utah/"
+  },
+  {
+    "city": "Morgantown",
+    "university_name": "West Virginia University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/West_Virginia_University_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/west-virginia-university/"
+  },
+  {
+    "city": "Fort Worth",
+    "university_name": "Texas Wesleyan University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Texas_Wesleyan_University_Logo-300x74.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/texas-wesleyan-university/"
+  },
+  {
+    "city": "Lowell",
+    "university_name": "University of Massachusetts Lowell",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-UMass-Lowell_logo.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-massachusetts-lowell/"
+  },
+  {
+    "city": "Chicago",
+    "university_name": "University of Illinois at Chicago",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/330px-University_of_Illinois_at_Chicago_circle_logo.svg_-300x300.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-illinois-at-chicago/"
+  },
+  {
+    "city": "Flagstaff",
+    "university_name": "University of Northern Arizona",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Northern_Arizona_Athletics_logo.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-northern-arizona/"
+  },
+  {
+    "city": "Pittsburgh",
+    "university_name": "Duquesne University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-Seal_of_Duquesne_University.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/duquesne-university/"
+  },
+  {
+    "city": "Baltimore County",
+    "university_name": "University of Maryland Baltimore County",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/195px-University_of_Maryland_Baltimore_County_seal.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-maryland-baltimore-county/"
+  },
+  {
+    "city": "Orlando",
+    "university_name": "University of Central Florida",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-University_of_Central_Florida_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-central-florida/"
+  },
+  {
+    "city": "Milwaukee",
+    "university_name": "University of Wisconsin-Milwaukee",
+    "intake": ["March", "July", "November"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/University_of_Wisconsin_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-wisconsin-milwaukee/"
+  },
+  {
+    "city": "Cleveland",
+    "university_name": "Cleveland State University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Cleveland_State_Vikings_logo.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/cleveland-state-university/"
+  },
+  {
+    "city": "Erie",
+    "university_name": "Gannon University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Gannon_University_seal-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/gannon-university/"
+  },
+  {
+    "city": "Institute",
+    "university_name": "West Virginia State University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/West_Virginia_State_University_seal-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/west-virginia-state-university/"
+  },
+  {
+    "city": "Lincoln",
+    "university_name": "University of Nebraska–Lincoln",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/195px-University_of_Nebraska_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-nebraska-lincoln/"
+  },
+  {
+    "city": "Miami",
+    "university_name": "Florida International University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/270px-Florida_Internation_University_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/florida-international-university/"
+  },
+  {
+    "city": "Webster Groves",
+    "university_name": "Webster University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/270px-Webster_University_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/webster-university/"
+  },
+  {
+    "city": "Lawrence",
+    "university_name": "The University of Kansas",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-University_of_Kansas_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/the-university-of-kansas/"
+  },
+  {
+    "city": "Winter Park",
+    "university_name": "Full Sail University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/144223-logo.jpg",
+    "viewcourse":"https://careeradvicepoint.com/colleges/full-sail-university/"
+  },
+  {
+    "city": "Chicago",
+    "university_name": "Northeastern Illinois University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/NEIU_seal-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/northeastern-illinois-university/"
+  },
+  {
+    "city": "Florence",
+    "university_name": "University of North Alabama",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/270px-University_of_North_Alabama_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-north-alabama/"
+  },
+  {
+    "city": "St. Louis",
+    "university_name": "Saint Louis University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/300px-Saint_Louis_University_seal-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/saint-louis-university/"
+  },
+  {
+    "city": "Edmond",
+    "university_name": "University of Central Oklahoma",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/University_of_Central_Oklahoma_seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-central-oklahoma/"
+  },
+  {
+    "city": "Jersey City",
+    "university_name": "Saint Peter’s University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/SPU-Sesq.-Logo_forweb-242x300.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/saint-peters-university/"
+  },
+  {
+    "city": "Dayton",
+    "university_name": "University of Dayton",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/360px-University_of_Dayton.svg_-300x109.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-dayton/"
+  },
+  {
+    "city": "Berkeley",
+    "university_name": "University of California, Berkeley Extension",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/The_University_of_California_1868.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-california-berkeley-extension/"
+  },
+  {
+    "city": "Jonesboro",
+    "university_name": "Arkansas State University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/logo.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/arkansas-state-university/"
+  },
+  {
+    "city": "Pittsburgh",
+    "university_name": "Point Park University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/college_1847_25-15_25_Point_Park_University_seal.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/point-park-university/"
+  },
+  {
+    "city": "Washington",
+    "university_name": "American University",
+    "intake": ["January", "August"],
+    "country": "USA",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/American_University_Seal.svg_-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/american-university/"
+  }
+]

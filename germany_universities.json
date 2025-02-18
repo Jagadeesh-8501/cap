@@ -1,0 +1,26 @@
+[
+  {
+    "city": "Berlin",
+    "university_name": "Berlin School of Business and Innovation",
+    "intake": ["February", "May", "October"],
+    "country": "Germany",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/09/1560326106phpPIsyUH.png",
+    "viewcourse":"https://careeradvicepoint.com/berlin-school-of-business-and-innovation/"
+  },
+  {
+    "city": "",
+    "university_name": "IUBH University Of Applied Science",
+    "intake": ["March", "September"],
+    "country": "Germany",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/09/college_2400_30-12_26_lo.png",
+    "viewcourse":"https://careeradvicepoint.com/iubh-university-of-applied-sciences/"
+  },
+  {
+    "city": "Hanover",
+    "university_name": "GISMA Business School",
+    "intake": ["January", "September"],
+    "country": "Germany",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/09/150px-GISMA_Business_School_logo.png",
+    "viewcourse":"https://careeradvicepoint.com/gisma-business-school/"
+  }
+]

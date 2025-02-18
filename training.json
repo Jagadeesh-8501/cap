@@ -1,0 +1,832 @@
+{
+    "exams": [
+                {
+            "title": "GMAT Coaching in Hyderabad",
+            "photo": "assets/img/service/ser/03.jpg",
+            "photo1": "assets/img/service/ser/33.jpg",
+            "course_description": {
+                "overview": "The Graduate Management Admission Test (GMAT) is a globally recognized standardized exam conducted by the Graduate Management Admission Council (GMAC). It is designed to assess the analytical, quantitative, verbal, and integrated reasoning skills of candidates aspiring to enroll in MBA and other business-related graduate programs worldwide.",
+                "importance": "GMAT scores are accepted by over 6,000 business schools worldwide, including top institutions like Harvard, Stanford, Wharton, ISB, and IIMs. The test serves as a crucial criterion for admissions into competitive management programs.",
+                "purpose": "The GMAT evaluates a candidate’s ability to analyze data, solve problems, and communicate effectively, which are essential for success in a business school environment."
+            },
+            "why_choose": [
+                {
+                    "reason": "Comprehensive Skill Assessment",
+                    "description": "The GMAT evaluates key skills required for business success, including quantitative aptitude, critical reasoning, and analytical writing."
+                },
+                {
+                    "reason": "Accepted by Leading Business Schools",
+                    "description": "Over 6,000 universities and business schools worldwide recognize GMAT scores, making it the preferred choice for MBA aspirants."
+                },
+                {
+                    "reason": "Better Career Opportunities",
+                    "description": "A high GMAT score can open doors to top MBA programs, leading to better job opportunities in multinational corporations and consulting firms."
+                },
+                {
+                    "reason": "Flexible Test Scheduling",
+                    "description": "GMAT is available year-round at official test centers, allowing candidates to schedule the test at their convenience."
+                },
+                {
+                    "reason": "Computer Adaptive Format",
+                    "description": "The test adapts to a candidate’s performance, ensuring a fair and precise evaluation."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What is the GMAT exam?",
+                    "answer": "The GMAT (Graduate Management Admission Test) is a standardized exam used for admission to top business schools globally."
+                },
+                {
+                    "question": "What are the sections in the GMAT exam?",
+                    "answer": "The GMAT consists of four sections: Analytical Writing Assessment (AWA), Integrated Reasoning, Quantitative, and Verbal."
+                },
+                {
+                    "question": "How long does the GMAT test take?",
+                    "answer": "The GMAT takes approximately 3 hours and 7 minutes, including optional breaks."
+                },
+                {
+                    "question": "How often can I take the GMAT?",
+                    "answer": "You can take the GMAT up to 5 times in a rolling 12-month period and a total of 8 times in your lifetime."
+                },
+                {
+                    "question": "What is the validity of GMAT scores?",
+                    "answer": "GMAT scores are valid for five years from the date of the test."
+                },
+                {
+                    "question": "What is the scoring system for GMAT?",
+                    "answer": "The GMAT is scored on a scale of 200 to 800, with separate scores for each section."
+                },
+                {
+                    "question": "How can I register for the GMAT?",
+                    "answer": "You can register for the GMAT online through the official GMAC website (www.mba.com)."
+                },
+                {
+                    "question": "Is there negative marking in the GMAT?",
+                    "answer": "No, there is no negative marking. However, the test follows a computer-adaptive format, meaning incorrect answers may lead to easier questions and affect your overall score."
+                },
+                {
+                    "question": "Can I skip questions in the GMAT?",
+                    "answer": "No, you must answer each question before moving to the next one. The test does not allow you to skip or return to previous questions."
+                },
+                {
+                    "question": "What is a good GMAT score?",
+                    "answer": "A score above 700 is considered good and competitive for top business schools worldwide."
+                }
+            ],
+            "exam_details": {
+                "exam_name": "Graduate Management Admission Test (GMAT)",
+                "total_duration": "3 hours 30 minutes",
+                "total_sections": 4,
+                "total_questions": 91,
+                "section_breakdown": [
+                    {
+                        "section_name": "Analytical Writing Assessment (AWA)",
+                        "questions": 1,
+                        "duration": "30 minutes",
+                        "scoring": "0-6 in half-point increments"
+                    },
+                    {
+                        "section_name": "Integrated Reasoning (IR)",
+                        "questions": 12,
+                        "duration": "30 minutes",
+                        "scoring": "1-8 in 1-point increments"
+                    },
+                    {
+                        "section_name": "Quantitative Reasoning",
+                        "questions": 37,
+                        "duration": "75 minutes",
+                        "scoring": "6-51 in 1-point increments"
+                    },
+                    {
+                        "section_name": "Verbal Reasoning",
+                        "questions": 41,
+                        "duration": "75 minutes",
+                        "scoring": "6-51 in 1-point increments"
+                    }
+                ]
+            },
+            "syllabus": [
+                {
+                    "section_name": "Analytical Writing Assessment (AWA)",
+                    "topics": [
+                        "Critical Thinking",
+                        "Argument Analysis",
+                        "Coherent Writing"
+                    ]
+                },
+                {
+                    "section_name": "Integrated Reasoning (IR)",
+                    "topics": [
+                        "Data Interpretation",
+                        "Multi-Source Reasoning",
+                        "Table Analysis",
+                        "Graphics Interpretation"
+                    ]
+                },
+                {
+                    "section_name": "Quantitative Reasoning",
+                    "topics": [
+                        "Problem Solving",
+                        "Data Sufficiency",
+                        "Algebra",
+                        "Geometry",
+                        "Arithmetic"
+                    ]
+                },
+                {
+                    "section_name": "Verbal Reasoning",
+                    "topics": [
+                        "Reading Comprehension",
+                        "Critical Reasoning",
+                        "Sentence Correction"
+                    ]
+                }
+            ],
+            "test_format": {
+                "computer_adaptive": "The GMAT adapts to the test taker's performance, adjusting the difficulty level based on responses.",
+                "test_availability": "Available year-round at official test centers, with up to five attempts in a 12-month period."
+            },
+            "scoring_system": {
+                "total_score_range": "200-800",
+                "sectional_scores": {
+                    "Analytical Writing Assessment": "0-6 in half-point increments",
+                    "Integrated Reasoning": "1-8 in 1-point increments",
+                    "Quantitative Reasoning": "6-51 in 1-point increments",
+                    "Verbal Reasoning": "6-51 in 1-point increments"
+                }
+            },
+        "course_info": [
+                {
+                  "point":"Duration",
+                  "value":"3 Months"
+                },
+                {
+                  "point":"Prerequisites",
+                  "value":"No"
+                }
+            ]
+        },
+        {
+            "title": "GRE Coaching in Hyderabad",
+                        "photo": "assets/img/service/ser/02.jpg",
+                        "photo1": "assets/img/service/ser/22.jpg",
+
+            "course_description": {
+                "overview": "The Graduate Record Examination (GRE) is a standardized test administered by ETS and is widely used for admissions into graduate and business programs worldwide. It assesses verbal reasoning, quantitative reasoning, and analytical writing skills.",
+                "importance": "GRE scores are accepted by thousands of graduate and business schools, including top universities in the US, Canada, and Europe. Many MBA programs also accept GRE scores as an alternative to GMAT.",
+                "purpose": "The GRE measures critical thinking, data interpretation, and analytical writing skills to evaluate a candidate’s readiness for graduate studies."
+            },
+            "why_choose": [
+                {
+                    "reason":"Accepted by Leading Universities",
+                    "description": "The GRE is recognized by thousands of graduate programs worldwide, including top universities like MIT, Stanford, and Harvard."
+                },
+                {
+                    "reason": "Flexible Test Scheduling",
+                    "description": "The GRE is available throughout the year at authorized test centers, with an option to retake the test once every 21 days, up to five times in a year."
+                },
+                {
+                    "reason": "No Specific Subject Requirement",
+                    "description": "Unlike other entrance exams, the GRE does not require a background in any specific subject, making it suitable for a wide range of graduate programs."
+                },
+                {
+                    "reason": "Computer-Adaptive Test",
+                    "description": "The GRE adapts to your performance level, allowing you to showcase your strengths."
+                },
+                {
+                    "reason": "Multiple Score Reporting Options",
+                    "description": "ETS provides options like ScoreSelect, which allows candidates to send their best GRE scores to universities."
+                }
+            ],
+            "exam_details": {
+                "exam_name": "Graduate Management Admission Test (GMAT)",
+                "total_questions": 91,
+                "total_sections": 3,
+                "total_duration": 225,
+                "section_breakdown": [
+                    {
+                        "section_name": "Analytical Writing",
+                        "total_questions": 2,
+                        "duration": "60 minutes",
+                        "description": "Assesses critical thinking and analytical writing skills through two essay tasks: 'Analyze an Issue' and 'Analyze an Argument'.",
+                        "scoring": "0-6 in half-point increments"
+                    },
+                    {
+                        "section_name": "Verbal Reasoning",
+                        "total_questions": 40,
+                        "duration": "60 minutes",
+                        "description": "Evaluates reading comprehension, sentence equivalence, and text completion.",
+                        "scoring": "130-170 in 1-point increments"
+                    },
+                    {
+                        "section_name": "Quantitative Reasoning",
+                        "total_questions": 40,
+                        "duration": "70 minutes",
+                        "description": "Measures mathematical reasoning, problem-solving, and data interpretation skills.",
+                        "scoring": "130-170 in 1-point increments"
+                    }
+                ]
+            },
+            "scoring_system": {
+                "total_score_range": "260-340",
+                "sectional_scores": {
+                    "Analytical Writing": "0-6 in half-point increments",
+                    "Verbal Reasoning": "130-170 in 1-point increments",
+                    "Quantitative Reasoning": "130-170 in 1-point increments"
+                }
+            },
+            "faqs": [
+                {
+                    "question": "What is the GRE test format?",
+                    "answer": "The GRE consists of Analytical Writing, Verbal Reasoning, and Quantitative Reasoning sections."
+                },
+                {
+                    "question": "How often can I take the GRE?",
+                    "answer": "You can take the GRE once every 21 days, up to five times a year."
+                },
+                {
+                    "question": "Is there negative marking in GRE?",
+                    "answer": "No, there is no negative marking in the GRE."
+                },
+                {
+                    "question": "Can I skip a question and return to it later?",
+                    "answer": "Yes, GRE allows you to skip and return to questions within a section."
+                },
+                {
+                    "question": "How long does it take to get GRE results?",
+                    "answer": "Unofficial scores are available immediately, and official scores are sent within 10–15 days."
+                },
+                {
+                    "question": "What is a good GRE score?",
+                    "answer": "A score above 320 is considered good for most top universities."
+                },
+                {
+                    "question": "Do I need a GRE score for MBA programs?",
+                    "answer": "Many business schools accept GRE scores in place of GMAT."
+                },
+                {
+                    "question": "Can I use a calculator during the GRE?",
+                    "answer": "Yes, an on-screen calculator is provided for the Quantitative section."
+                },
+                {
+                    "question": "What are GRE Subject Tests?",
+                    "answer": "They are specialized tests in subjects like Math, Physics, and Psychology."
+                },
+                {
+                    "question": "Can I cancel my GRE scores?",
+                    "answer": "Yes, you can cancel your scores immediately after the test."
+                }
+            ],
+            "course_info": [
+                {
+                  "point":"Duration",
+                  "value":"3 Months"
+                },
+                {
+                  "point":"Prerequisites",
+                  "value":"No"
+                }
+            ]
+
+        },
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "title": "TOEFL Coaching in Hyderabad",
+                "photo": "assets/img/service/ser/06.jpg",
+                "photo1": "assets/img/service/ser/66.jpg",
+        "course_description": {
+            "overview": "The Test of English as a Foreign Language (TOEFL) is a standardized test that evaluates the English proficiency of non-native speakers. It is widely accepted by universities and professional institutions in English-speaking countries.",
+            "importance": "TOEFL is recognized by over 11,000 institutions worldwide, including universities in the USA, Canada, UK, Australia, and New Zealand. It is often a requirement for admission to undergraduate and graduate programs.",
+            "purpose": "The TOEFL measures a candidate’s ability to use and understand English in academic settings. It evaluates reading, writing, speaking, and listening skills to ensure students can effectively communicate in English-speaking environments."
+        },
+        "why_choose": [
+            {
+                "reason": "Widely Accepted",
+                "description": "TOEFL is accepted by thousands of universities, making it a preferred choice for students applying abroad."
+            },
+            {
+                "reason": "Academic English Focus",
+                "description": "The test is designed to assess English skills required in an academic environment, making it ideal for university admissions."
+            },
+            {
+                "reason": "Computer-Based and Fair Scoring",
+                "description": "The test is entirely computer-based, ensuring unbiased and standardized assessment."
+            },
+            {
+                "reason": "Flexible Test Dates",
+                "description": "TOEFL is offered multiple times throughout the year, providing candidates with scheduling flexibility."
+            }
+        ],
+        "exam_details": {
+            "total_sections": 4,
+            "total_duration": "3 hours",
+            "section_breakdown": [
+                {
+                    "section_name": "Reading",
+                    "total_questions": "30-40",
+                    "duration": "54-72 minutes",
+                    "description": "Tests comprehension of academic passages.",
+                    "subsections": [
+                        {
+                            "name": "Passage Comprehension",
+                            "description": "Evaluates understanding of key ideas, vocabulary, and logical relationships."
+                        }
+                    ],
+                    "scoring": "0-30"
+                },
+                {
+                    "section_name": "Listening",
+                    "total_questions": "28-39",
+                    "duration": "41-57 minutes",
+                    "description": "Tests ability to understand spoken English in academic contexts.",
+                    "subsections": [
+                        {
+                            "name": "Conversations & Lectures",
+                            "description": "Assesses understanding of classroom discussions and academic lectures."
+                        }
+                    ],
+                    "scoring": "0-30"
+                },
+                {
+                    "section_name": "Speaking",
+                    "total_questions": "4 tasks",
+                    "duration": "17 minutes",
+                    "description": "Measures ability to express ideas clearly and coherently.",
+                    "subsections": [
+                        {
+                            "name": "Independent Speaking Task",
+                            "description": "Requires test-takers to express their opinion on a given topic."
+                        },
+                        {
+                            "name": "Integrated Speaking Tasks",
+                            "description": "Combines listening and speaking skills to answer questions."
+                        }
+                    ],
+                    "scoring": "0-30"
+                },
+                {
+                    "section_name": "Writing",
+                    "total_questions": "2 tasks",
+                    "duration": "50 minutes",
+                    "description": "Evaluates ability to express ideas in written English.",
+                    "subsections": [
+                        {
+                            "name": "Integrated Writing Task",
+                            "description": "Requires summarizing information from a reading and listening passage."
+                        },
+                        {
+                            "name": "Independent Writing Task",
+                            "description": "Tests ability to write an essay on a given topic."
+                        }
+                    ],
+                    "scoring": "0-30"
+                }
+            ]
+        },
+         "faqs": [
+                {
+                    "question": "How long is the TOEFL test?",
+                    "answer": "The TOEFL iBT takes about 3 hours to complete."
+                },
+                {
+                    "question": "How is TOEFL scored?",
+                    "answer": "Each section is scored out of 30, with a total score of 120."
+                },
+                {
+                    "question": "Can I take TOEFL at home?",
+                    "answer": "Yes, ETS offers the TOEFL iBT Home Edition."
+                },
+                {
+                    "question": "How long is TOEFL valid?",
+                    "answer": "TOEFL scores are valid for two years."
+                },
+                {
+                    "question": "What is a good TOEFL score?",
+                    "answer": "Most universities require a score of 80-100."
+                },
+                {
+                    "question": "How often is TOEFL conducted?",
+                    "answer": "TOEFL is conducted multiple times a month."
+                },
+                {
+                    "question": "Can I use TOEFL for immigration?",
+                    "answer": "Yes, some countries accept TOEFL for visa applications."
+                },
+                {
+                    "question": "How can I improve my TOEFL Speaking score?",
+                    "answer": "Practice speaking English regularly and use TOEFL practice tests."
+                },
+                {
+                    "question": "What ID is required for TOEFL registration?",
+                    "answer": "A valid passport is typically required."
+                },
+                {
+                    "question": "Can I cancel or reschedule my TOEFL test?",
+                    "answer": "Yes, you can reschedule with applicable fees."
+                }
+            ],
+        "scoring_system": {
+            "total_score_range": "0-120",
+            "sectional_scores": {
+                "Reading": "0-30",
+                "Listening": "0-30",
+                "Speaking": "0-30",
+                "Writing": "0-30"
+            }
+        },
+        "course_info": {
+            "duration": "2-3 Months",
+            "prerequisites": "No specific eligibility criteria.",
+            "class_mode": [
+                "Online",
+                "Offline"
+            ],
+            "course_materials": [
+                "Practice Tests",
+                "Speaking & Listening Exercises",
+                "Vocabulary Enhancement Modules"
+            ]
+        },
+        "test_availability": {
+            "test_frequency": "Available year-round",
+            "test_retake_policy": "Candidates can retake the test as many times as needed, with a 3-day gap between attempts."
+        },
+        "registration_process": {
+            "official_website": "https://www.ets.org/toefl",
+            "registration_steps": [
+                "Create an account on the ETS website",
+                "Choose test location and date",
+                "Complete the registration form",
+                "Pay the test fee and confirm registration"
+            ],
+            "fee_structure": {
+                "test_fee": "$190",
+                "rescheduling_fee": "$60",
+                "additional score reports": "$20 per institution"
+            }
+        },
+        "results_and_score_reporting": {
+            "score_validity": "2 Years",
+            "how_to_send_scores": "Candidates can send scores to 4 institutions for free, with additional fees for extra institutions."
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+    {
+        "title": "PTE Coaching in Hyderabad",
+                    "photo": "assets/img/service/ser/04.jpg",
+                    "photo1": "assets/img/service/ser/44.jpg",
+
+        "course_description": {
+            "overview": "The Pearson Test of English (PTE) is a computer-based English language proficiency test designed for non-native English speakers who wish to study, work, or migrate to an English-speaking country. The test evaluates speaking, writing, listening, and reading skills through an AI-driven assessment.",
+            "importance": "PTE is widely accepted by universities, colleges, and governments worldwide, including Australia, Canada, the UK, and New Zealand. It is one of the fastest and most reliable English proficiency tests, delivering results in 24-48 hours.",
+            "purpose": "The test assesses an individual’s ability to use English in an academic setting, ensuring they can communicate effectively in real-life scenarios."
+        },
+        "why_choose": [
+            {
+                "reason": "Fastest Results",
+                "description": "PTE delivers test results within 24 to 48 hours, making it one of the fastest language proficiency tests."
+            },
+            {
+                "reason": "AI-Based Scoring System",
+                "description": "The automated AI-driven scoring system ensures a fair and unbiased evaluation of test-takers' abilities."
+            },
+            {
+                "reason": "Accepted for Study, Work & Migration",
+                "description": "Recognized by thousands of institutions and government agencies worldwide, making it a preferred choice for students and professionals."
+            },
+            {
+                "reason": "Computer-Based Test",
+                "description": "The test is conducted entirely on a computer, ensuring consistency in assessment."
+            },
+            {
+                "reason": "Unlimited Score Sending",
+                "description": "Unlike other English tests, PTE allows candidates to send their scores to an unlimited number of institutions for free."
+            }
+        ],
+        "exam_details": {
+            "total_sections": 3,
+            "total_duration": "2 hours",
+            "section_breakdown": [
+                {
+                    "section_name": "Speaking & Writing",
+                    "total_questions": "Varies",
+                    "duration": "54-67 minutes",
+                    "description": "Measures a candidate’s ability to speak fluently and write accurately in an academic setting.",
+                    "scoring": "10-90"
+                },
+                {
+                    "section_name": "Reading",
+                    "total_questions": "Varies",
+                    "duration": "29-30 minutes",
+                    "description": "Measures reading comprehension and analytical skills.",
+                    "scoring": "10-90"
+                },
+                {
+                    "section_name": "Listening",
+                    "total_questions": "Varies",
+                    "duration": "30-43 minutes",
+                    "description": "Assesses listening skills through spoken passages and lectures.",
+                    "scoring": "10-90"
+                }
+            ]
+        },
+        "faqs": [
+                {
+                    "question": "How long is the PTE test?",
+                    "answer": "The PTE Academic test lasts approximately 3 hours."
+                },
+                {
+                    "question": "Is PTE easier than IELTS?",
+                    "answer": "It depends on the individual; some find PTE’s AI-based evaluation easier than IELTS’s human scoring."
+                },
+                {
+                    "question": "How often can I take the PTE?",
+                    "answer": "There is no limit; you can take the test as many times as needed."
+                },
+                {
+                    "question": "Is there a passing score for PTE?",
+                    "answer": "No, but universities and organizations have their own minimum requirements."
+                },
+                {
+                    "question": "What is a good PTE score?",
+                    "answer": "A score of 65+ is considered good for academic and immigration purposes."
+                },
+                {
+                    "question": "Can I take PTE from home?",
+                    "answer": "Yes, PTE now offers an online version called PTE Academic Online."
+                },
+                {
+                    "question": "How can I prepare for the PTE Speaking section?",
+                    "answer": "Practice pronunciation and fluency using PTE mock tests and AI tools."
+                },
+                {
+                    "question": "Do PTE scores expire?",
+                    "answer": "Yes, PTE scores are valid for two years."
+                },
+                {
+                    "question": "Can I reschedule my PTE test?",
+                    "answer": "Yes, you can reschedule or cancel your test with applicable fees."
+                },
+                {
+                    "question": "What documents are required for PTE registration?",
+                    "answer": "A valid passport is required for registration."
+                }
+            ],
+        "scoring_system": {
+            "total_score_range": "10-90"
+        },
+        "course_info": {
+            "duration": "1-2 Months",
+            "prerequisites": "No specific eligibility criteria.",
+            "class_mode": ["Online", "Offline"]
+        }
+    },
+    {
+        "title": "SAT Coaching in Hyderabad",
+                    "photo": "assets/img/service/ser/05.jpg",
+                    "photo1": "assets/img/service/ser/55.jpg",
+
+        "course_description": {
+            "overview": "The SAT (Scholastic Assessment Test) is a globally recognized standardized test administered by the College Board. It assesses a student’s readiness for college and is widely used for undergraduate admissions in the United States and other countries.",
+            "importance": "SAT scores are accepted by thousands of universities worldwide, including top institutions in the US, Canada, and the UK. A high SAT score enhances scholarship opportunities and increases chances of admission to prestigious universities.",
+            "purpose": "The SAT evaluates a student’s critical reading, mathematical reasoning, and writing skills. The test is designed to predict college success and academic potential."
+        },
+        "why_choose": [
+            {
+                "reason": "Accepted by Top Universities",
+                "description": "SAT scores are recognized by leading universities across the world, including Ivy League institutions and top-ranked global colleges."
+            },
+            {
+                "reason": "Scholarship Opportunities",
+                "description": "A high SAT score can help students secure merit-based scholarships and financial aid for undergraduate programs."
+            },
+            {
+                "reason": "Measures Critical Thinking & Problem-Solving Skills",
+                "description": "The SAT assesses a student’s ability to analyze and solve real-world problems, which are essential for college success."
+            }
+        ],
+        "exam_details": {
+            "total_sections": 2,
+            "total_duration": "2 hours 14 minutes",
+            "section_breakdown": [
+                {
+                    "section_name": "Reading & Writing",
+                    "questions": 54,
+                    "duration": "64 minutes",
+                    "description": "Tests comprehension, vocabulary, and grammar through multiple-choice questions based on passages.",
+                    "scoring": "200-800"
+                },
+                {
+                    "section_name": "Math",
+                    "questions": 44,
+                    "duration": "70 minutes",
+                    "description": "Assesses problem-solving, algebra, geometry, and data analysis skills.",
+                    "scoring": "200-800"
+                }
+            ]
+        },
+         "faqs": [
+                {
+                    "question": "What is the SAT format?",
+                    "answer": "The SAT consists of Evidence-Based Reading, Writing, and Math sections."
+                },
+                {
+                    "question": "Is the SAT required for all US colleges?",
+                    "answer": "Not all colleges require the SAT, but many still prefer it for admissions."
+                }
+            ],
+        "scoring_system": {
+            "total_score_range": "400-1600"
+        },
+        "course_info": [
+                {
+                  "point":"Duration",
+                  "value":"1 Months"
+                },
+                {
+                  "point":"Prerequisites",
+                  "value":"No"
+                }
+            ]
+    },
+    {
+        "title": "IELTS Coaching in Hyderabad",
+        "photo": "assets/img/service/ser/01.jpg",
+        "photo1": "assets/img/service/ser/11.jpg",
+        "course_description": {
+            "overview": "The International English Language Testing System (IELTS) is one of the most widely recognized English language proficiency tests. It assesses candidates on listening, reading, writing, and speaking skills for academic and professional purposes.",
+            "importance": "IELTS is accepted by over 10,000 institutions globally, including universities in the UK, Canada, Australia, and the USA. It is also a requirement for immigration and work visa applications in many countries.",
+            "purpose": "IELTS evaluates real-life English communication skills and is designed for students, professionals, and immigrants seeking opportunities in English-speaking countries."
+        },
+        "why_choose": [
+            {
+                "reason": "Accepted Worldwide",
+                "description": "Recognized by universities, employers, and immigration authorities globally."
+            },
+            {
+                "reason": "Choice of Test Formats",
+                "description": "Candidates can choose between Academic and General Training IELTS based on their goals."
+            },
+            {
+                "reason": "Face-to-Face Speaking Test",
+                "description": "The speaking section is conducted in person with a certified examiner, providing a realistic assessment of communication skills."
+            }
+        ],
+        "exam_details": {
+            "total_sections": 4,
+            "total_duration": "2 hours 45 minutes",
+            "section_breakdown": [
+                {
+                    "section_name": "Listening",
+                    "total_questions": "40",
+                    "duration": "30 minutes",
+                    "description": "Assesses the ability to understand spoken English in different contexts.",
+                    "scoring": "0-9"
+                },
+                {
+                    "section_name": "Reading",
+                    "total_questions": "40",
+                    "duration": "60 minutes",
+                    "description": "Evaluates comprehension skills using a variety of texts.",
+                    "scoring": "0-9"
+                },
+                {
+                    "section_name": "Writing",
+                    "total_questions": "2 tasks",
+                    "duration": "60 minutes",
+                    "description": "Tests the ability to express ideas effectively in written English.",
+                    "scoring": "0-9"
+                },
+                {
+                    "section_name": "Speaking",
+                    "total_questions": "3 parts",
+                    "duration": "11-14 minutes",
+                    "description": "Evaluates spoken English skills in a face-to-face interview.",
+                    "scoring": "0-9"
+                }
+            ]
+        },
+         "faqs": [
+                {
+                    "question": "How is the IELTS exam structured?",
+                    "answer": "The IELTS consists of four sections: Listening, Reading, Writing, and Speaking."
+                },
+                {
+                    "question": "What is the validity of IELTS scores?",
+                    "answer": "IELTS scores are valid for two years."
+                },
+                {
+                    "question": "Is there any negative marking in IELTS?",
+                    "answer": "No, there is no negative marking in IELTS."
+                },
+                {
+                    "question": "Can I retake the IELTS if I am not satisfied with my score?",
+                    "answer": "Yes, you can retake the IELTS as many times as you wish."
+                },
+                {
+                    "question": "What is the minimum IELTS score required for university admissions?",
+                    "answer": "The required score varies by institution, but most universities require a minimum score of 6.0 to 7.5."
+                },
+                {
+                    "question": "How long does it take to get IELTS results?",
+                    "answer": "IELTS results are typically available within 13 days for paper-based tests and 3-5 days for computer-based tests."
+                },
+                {
+                    "question": "What is the difference between IELTS Academic and IELTS General Training?",
+                    "answer": "Academic IELTS is for university admissions, while General Training IELTS is for work and immigration purposes."
+                },
+                {
+                    "question": "Can I take IELTS online?",
+                    "answer": "Yes, IELTS Online is now available for select countries, offering the same test format as the in-person exam."
+                },
+                {
+                    "question": "What ID is required for IELTS registration?",
+                    "answer": "A valid passport or national ID card is required for IELTS registration."
+                },
+                {
+                    "question": "How can I prepare for IELTS Speaking?",
+                    "answer": "Practice speaking English daily, listen to English podcasts, and take mock speaking tests."
+                }
+            ],
+        "scoring_system": {
+            "total_score_range": "0-9"
+        },
+        "course_info": [
+                {
+                  "point":"duration",
+                  "value":"30- 45 days"
+                },
+                {
+                  "point":"Lessons",
+                  "value":"5"
+                },
+                {
+                  "point":"Prerequisites",
+                  "value":"No"
+                },
+                {
+                  "point":"Skill Level",
+                  "value":"beginner"
+                }
+            ]
+        
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+}

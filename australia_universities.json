@@ -1,0 +1,254 @@
+[
+  {
+    "city": "Sydney",
+    "university_name": "Navitas-Edith Cowan College",
+    "intake": ["March", "October"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/1550029925phpdibImH.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/colleges/navitas-edith-cowan-college/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "ATMC- Charles Darwin University",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/1599814956phpuRSEfg.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/atmc-charles-darwin-university/"
+  },
+  {
+    "city": "Eynesbury",
+    "university_name": "Eynesbury College",
+    "intake": ["February", "June", "October"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/ESClogo.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/eynesbury-college/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "ATMC-University of Sunshine Coast",
+    "intake": ["March", "July", "November"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/Group-15-1-300x50.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/atmc-university-of-sunshine-coast/"
+  },
+  {
+    "city": "Sydney",
+    "university_name": "AIT – Academy of Information Technology",
+    "intake": ["January", "March", "May", "July", "August", "November"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/220px-AIT_Sydney_Logo_Horizontal.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/ait-academy-of-information-technology/"
+  },
+  {
+    "city": "Sydney",
+    "university_name": "IIBIT- Federation",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/IIBIT-Logo4.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/iibit-federation/"
+  },
+  {
+    "city": "Canberra",
+    "university_name": "Navitas – University of Canberra",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/uc_logo_inline-300x62.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-canberra/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "ATMC- Federation University",
+    "intake": ["March", "July", "November"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/Group-15-300x50.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/atmc-federation-university/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "Navitas-Latrobe University",
+    "intake": ["February", "July", "October"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/download-2-1-300x158.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/latrobe-university/"
+  },
+  {
+    "city": "West Perth, Melbourne",
+    "university_name": "Engineering Institute of Technology",
+    "intake": ["July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/college_2380_11-16_40_download.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/engineering-institute-of-technology/"
+  },
+  {
+    "city": "Mount Helen",
+    "university_name": "Federation University",
+    "intake": ["February", "March"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/1626167279phpZzLEFM.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/federation-university/"
+  },
+  {
+    "city": " 46 / N/A",
+    "university_name": "SAE Institute Melbourne",
+    "intake": ["June"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/SAE_Institute_Black_Logo.jpg",
+    "viewcourse":"https://careeradvicepoint.com/colleges/sae-institute-melbourne/"
+  },
+    {
+    "city": "Clayton",
+    "university_name": "Monash University",
+    "intake": [],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/Monash_University_logo-en.svg_.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/monash-university/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "Swinburne University Of Technology",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/download-4-300x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/swinburne-university-of-technology/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "RMIT University",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/download-3-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/rmit-university/"
+  },
+  {
+    "city": "Macquarie Park",
+    "university_name": "Macquarie University",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/download-2-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/macquarie-university/"
+  },
+  {
+    "city": "Perth",
+    "university_name": "Murdoch University",
+    "intake": ["July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/Murdoch_University_new_logo-300x127.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/murdoch-university/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "Melbourne Institute of Technology",
+    "intake": ["March", "July", "November"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/1549971701phpNFGSJy.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/melbourne-institute-of-technology/"
+  },
+  {
+    "city": "Sydney",
+    "university_name": "Victoria University Sydney",
+    "intake": ["March", "July", "November"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/1549971404phpJiwoMG.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/victoria-university-sydney/"
+  },
+  {
+    "city": "Hobart",
+    "university_name": "University Of Tasmania",
+    "intake": ["February", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/225px-UTasLogo-1.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-tasmania/"
+  },
+  {
+    "city": "Gold Coast, Mount Gravatt",
+    "university_name": "Griffith University",
+    "intake": ["February", "June", "October"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/download-2.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/griffith-university/"
+  },
+  {
+    "city": "Townsville, Brisbane",
+    "university_name": "James Cook University Townsville",
+    "intake": ["Feb"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/10/James_Cook_University_Armorial_Ensigns-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/james-cook-university-townsville/"
+  },  {
+    "city": "Perth",
+    "university_name": "Cambridge International College",
+    "intake": ["Jan", "Mar","Jun" ,"Aug", "Oct"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/logov2-1-300x37.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/cambridge-international-college/"
+  },  {
+    "city": "Macquarie Park",
+    "university_name": "Excelsia College",
+    "intake": ["Feb","Sep" ,"Aug"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Excelsia_logo_HORIZ_White-300x117.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/excelsia-college/"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "city": "Sydney",
+    "university_name": "Western Sydney University",
+    "intake": ["6 Months"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/225px-Western_Sydney_University_emblem.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/western-sydney-university/"
+  },
+  {
+    "city": "Wollongong",
+    "university_name": "University Of Wollongong",
+    "intake": ["February", "March", "July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/download-1-1-300x96.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/university-of-wollongong/"
+  },
+  {
+    "city": "Brisbane",
+    "university_name": "Bond University",
+    "intake": ["July"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Bond_University_Coat_of_Arms-249x300.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/bond-university/"
+  },
+  {
+    "city": "Melbourne",
+    "university_name": "Victorian Institute Of Technology (VIT)",
+    "intake": ["February"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/logo-1.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/victorian-institute-of-technology-vit/"
+  },
+  {
+    "city": "Melbourne, Perth, Sydney, Bilinga",
+    "university_name": "Southern Cross University",
+    "intake": ["April"],
+    "country": "Australia",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/276px-Southern_Cross_vertical-150x150.png",
+    "viewcourse":"https://careeradvicepoint.com/colleges/southern-cross-university-melbourneperthsydney/"
+  }
+]

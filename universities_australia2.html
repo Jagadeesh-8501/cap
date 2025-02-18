@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universities in Australia</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            margin-top: 20px;
+        }
+        .search-bar {
+            max-width: 400px;
+            margin: 20px auto;
+        }
+        .university-card {
+            transition: transform 0.2s ease-in-out;
+        }
+        .university-card:hover {
+            transform: scale(1.03);
+        }
+        .university-image {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .card-body {
+            text-align: center;
+        }
+        .intake {
+            font-size: 0.9em;
+            font-weight: bold;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2 class="text-center my-4">List of Universities in the Australia</h2>
+
+        <input type="text" id="searchInput" class="form-control search-bar" placeholder="Search by University or City..." onkeyup="filterUniversities()">
+
+        <div class="row" id="universityContainer">
+            <!-- University tiles will be dynamically added here -->
+        </div>
+    </div>
+
+    <script>
+        let universities = [];
+
+        async function loadUniversities() {
+            try {
+                const response = await fetch('australia_universities.json'); 
+                universities = await response.json();
+                displayUniversities(universities);
+            } catch (error) {
+                console.error("Error loading universities:", error);
+            }
+        }
+
+        function displayUniversities(data) {
+            const container = document.getElementById("universityContainer");
+            container.innerHTML = ""; 
+
+            data.forEach((uni) => {
+                let card = `<div class="col-md-4 col-lg-3 mb-4">
+                    <div class="card university-card">
+                        <img src="${uni.photo}" class="university-image" alt="${uni.university_name}" style="height: 280px;">
+                        <div class="card-body">
+                            <h5 class="card-title">${uni.university_name}</h5>
+                            <p class="card-text">${uni.city}, ${uni.country}</p>
+                            <p class="intake">Intake: ${uni.intake.join(", ")}</p>
+                            <a href="${uni.viewcourse}">Check Courses</a>
+                        </div>
+                    </div>
+                </div>`;
+                container.innerHTML += card;
+            });
+        }
+
+        function filterUniversities() {
+            let query = document.getElementById("searchInput").value.toLowerCase();
+            const filteredUniversities = universities.filter(uni => 
+                uni.university_name.toLowerCase().includes(query) || 
+                uni.city.toLowerCase().includes(query)
+            );
+
+            displayUniversities(filteredUniversities);
+        }
+
+        document.addEventListener("DOMContentLoaded", loadUniversities);
+    </script>
+
+</body>
+</html>

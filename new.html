@@ -1,0 +1,62 @@
+        <script>
+        let universities = [];
+
+        async function loadUniversities() {
+            try {
+                const response = await fetch('australia_universities.json'); 
+                universities = await response.json();
+                displayUniversities(universities);
+            } catch (error) {
+                console.error("Error loading universities:", error);
+            }
+        }
+
+        function displayUniversities(data) {
+            const container = document.getElementById("universityContainer");
+            container.innerHTML = ""; 
+
+            data.forEach((uni) => {
+                let card = `
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                            <div class="single-team-items mt-0">
+                                <div class="team-image">
+                                    <img src="${uni.photo}" alt="team-img">
+                                    <div class="social-profile">
+                                        <span class="plus-btn"><i class="fas fa-share-alt"></i></span>
+                                        <ul>
+                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="team-content text-center box-shadow">
+                                    <h5>
+                                        <a href="team-details.html">${uni.university_name}</a>
+                                        </h5>
+                                        <p class="intake">Intake: ${uni.intake.join(", ")}</p>
+                                    <p>${uni.city}, ${uni.country}</p>
+                                </div>
+                                <a href="${uni.viewcourse}">Check Courses</a>
+                            </div>
+                        </div>
+                
+                
+                        `;
+                        container.innerHTML += card;
+                    });
+                }
+
+
+        function filterUniversities() {
+            let query = document.getElementById("searchInput").value.toLowerCase();
+            const filteredUniversities = universities.filter(uni => 
+                uni.university_name.toLowerCase().includes(query) || 
+                uni.city.toLowerCase().includes(query)
+            );
+
+            displayUniversities(filteredUniversities);
+        }
+
+        document.addEventListener("DOMContentLoaded", loadUniversities);
+    </script>

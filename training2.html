@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Training Programs</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            fetch('training.json')
+                .then(response => response.json())
+                .then(data => {
+                    const trainingList = document.getElementById("training-list");
+
+                    data.exams.forEach((exam, index) => {
+                        let listItem = document.createElement("li");
+                        listItem.innerHTML = `<a href="training-details.html?index=${index}">${exam.title}</a>`;
+                        trainingList.appendChild(listItem);
+                    });
+                })
+                .catch(error => console.error("Error fetching training data:", error));
+        });
+    </script>
+</head>
+<body>
+    <h1>Available Training Programs</h1>
+    <ul id="training-list"></ul>
+</body>
+</html>

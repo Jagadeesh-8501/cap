@@ -1,0 +1,154 @@
+[
+  {
+    "city": "Montreux",
+    "university_name": "IHTTI (International Hotel and Tourism Training Institute)",
+    "intake": ["February", "September"],
+    "country": "Switzerland",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Ihtti-logo_200x200.jpg",
+    "viewcourse":"https://careeradvicepoint.com/ihtti-international-hotel-and-tourism-training-institute/"
+  },
+  {
+    "city": "Vancouver",
+    "university_name": "Acsenda School of Management",
+    "intake": ["January", "April", "July", "September"],
+    "country": "Canada",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/09/Acsenda-School-of-Management-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/acsenda-school-of-management/"
+  },
+  {
+    "city": "Sydney",
+    "university_name": "Cape Breton University (CBU)",
+    "intake": ["January", "May", "September"],
+    "country": "Canada",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/08/Cape-Breton-University.png",
+    "viewcourse":"https://careeradvicepoint.com/cape-breton-university/"
+  },
+  {
+    "city": "Uppsala",
+    "university_name": "Uppsala University",
+    "intake": ["6.5 / 5.5"],
+    "country": "Sweden",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Uppsala-University.png",
+    "viewcourse":"https://careeradvicepoint.com/uppsala-university/"
+  },
+  {
+    "city": "Montreal",
+    "university_name": "Institute of Superior Informatique (ISI)",
+    "intake": ["January", "May", "September"],
+    "country": "Canada",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/08/isi-logo-300x100-1.png",
+    "viewcourse":"https://careeradvicepoint.com/institute-of-superior-informatique-isi/"
+  },
+  {
+    "city": "Halifax Regional Municipality",
+    "university_name": "Mount Saint Vincent University",
+    "intake": ["January", "September"],
+    "country": "Canada",
+    "photo": "https://careeradvicepoint.com/wp-content/uploads/2021/08/Mount-Saint-Vincent-Univesity.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/mount-saint-vincent-university/"
+  },
+  {
+    "city": "Yorkton",
+    "university_name": "Parkland College",
+    "intake": ["January", "May", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/ParklandCollegeLogo.png",
+    "viewcourse":"https://careeradvicepoint.com/parkland-college/"
+  },
+  {
+    "city": "Vermilion",
+    "university_name": "Lakeland College",
+    "intake": ["January", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Lakeland-logo-300x56.png",
+    "viewcourse":"https://careeradvicepoint.com/lakeland-college/"
+  },
+  {
+    "city": "Sherbrooke",
+    "university_name": "Cegep Gaspe",
+    "intake": ["January", "May", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Cegep-gaspe-logo.png",
+    "viewcourse":"https://careeradvicepoint.com/cegep-gaspe/"
+  },
+  {
+    "city": "Vancouver",
+    "university_name": "Vancouver Community College",
+    "intake": ["September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Vancouver-Community-College-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/vancouver-community-college/"
+  },
+  {
+    "city": "Windsor",
+    "university_name": "University of Windsor",
+    "intake": ["January", "May", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/University-of-Windsor-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/university-of-windsor/"
+  },
+  {
+    "city": "Cranbrook",
+    "university_name": "College of the Rockies",
+    "intake": ["January", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/College-of-the-Rockies.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/college-of-the-rockies/"
+  },
+  {
+    "city": "Vancouver",
+    "university_name": "University Canada West",
+    "intake": ["January", "April", "July", "October"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/University-Canada-West.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/university-canada-west/"
+  },
+  {
+    "city": "North Vancouver",
+    "university_name": "Capilano University",
+    "intake": ["July"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Capilano-University-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/capilano-university/"
+  },
+  {
+    "city": "Greater Sudbury",
+    "university_name": "Cambrian College",
+    "intake": ["March", "May"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Cambrian-College-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/cambrian-college/"
+  },
+  {
+    "city": "Whitehorse",
+    "university_name": "Yukon College",
+    "intake": ["January", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Yukon-University.png",
+    "viewcourse":"https://careeradvicepoint.com/yukon-college/"
+  },
+  {
+    "city": "Castlegar",
+    "university_name": "Selkirk College",
+    "intake": ["January", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Selkirk-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/selkirk-college/"
+  },
+  {
+    "city": "Montreal",
+    "university_name": "Montreal College of Information Technology",
+    "intake": ["January", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Montreal-College-IT.png",
+    "viewcourse":"https://careeradvicepoint.com/montreal-college-of-information-technology/"
+  },
+  {
+    "city": "Dawson Creek",
+    "university_name": "Northern Lights College",
+    "intake": ["January", "May", "September"],
+    "country": "Canada",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/08/Northern-Lights-College-300x64.png",
+    "viewcourse":"https://careeradvicepoint.com/northern-lights-college/"
+  }
+]

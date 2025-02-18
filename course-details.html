@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Details</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 id="courseTitle"></h1>
+    <p><strong>University:</strong> <span id="universityName"></span></p>
+    <p><strong>Field of Study:</strong> <span id="fieldStudy"></span></p>
+    <p><strong>Duration:</strong> <span id="duration"></span></p>
+    <p><strong>Fee:</strong> <span id="fee"></span></p>
+    <p><strong>IELTS Requirement:</strong> <span id="ielts"></span></p>
+    <p><strong>Level of Study:</strong> <span id="level"></span></p>
+    
+    <h2>About the University</h2>
+    <p id="aboutUniversity"></p>
+    
+    <h2>Facilities</h2>
+    <ul id="facilitiesList"></ul>
+    
+    <h2>Notable Alumni</h2>
+    <ul id="alumniList"></ul>
+    
+    <p><a href="courses.html">Back to Courses</a></p>
+</div>
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const universityName = urlParams.get('university');
+    const courseName = urlParams.get('course');
+
+    fetch('abroad.json')
+        .then(response => response.json())
+        .then(data => {
+            let university = data.find(u => u.university_name === universityName);
+            if (!university) {
+                document.body.innerHTML = "<h1>University not found</h1>";
+                return;
+            }
+
+            let course = university.courses.find(c => c.course_name === courseName);
+            if (!course) {
+                document.body.innerHTML = "<h1>Course not found</h1>";
+                return;
+            }
+
+            document.getElementById('courseTitle').innerText = course.course_name;
+            document.getElementById('universityName').innerText = university.university_name;
+            document.getElementById('fieldStudy').innerText = course.field_study;
+            document.getElementById('duration').innerText = course.duration;
+            document.getElementById('fee').innerText = course.fee;
+            document.getElementById('ielts').innerText = course.ielts_no_band_it;
+            document.getElementById('level').innerText = course.level_of_study;
+            document.getElementById('aboutUniversity').innerText = university.about_college;
+
+            // Populate facilities
+            let facilitiesHTML = "";
+            university.facilities.forEach(facility => {
+                facilitiesHTML += `<li>${facility}</li>`;
+            });
+            document.getElementById('facilitiesList').innerHTML = facilitiesHTML;
+
+            // Populate notable alumni
+            let alumniHTML = "";
+            university.notable_alumni.forEach(alumnus => {
+                alumniHTML += `<li>${alumnus}</li>`;
+            });
+            document.getElementById('alumniList').innerHTML = alumniHTML;
+        })
+        .catch(error => console.error('Error loading course details:', error));
+</script>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses List</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+        .course { border: 1px solid #ddd; padding: 15px; margin-bottom: 10px; }
+        .course h3 { margin: 0; }
+        .view-details { color: blue; cursor: pointer; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Available Courses</h1>
+    <div id="coursesList"></div>
+</div>
+
+<script>
+    fetch('abroad.json')
+        .then(response => response.json())
+        .then(data => {
+            let coursesHTML = '';
+            data.forEach(university => {
+                university.courses.forEach(course => {
+                    coursesHTML += `
+                        <div class="course">
+                            <h3>${course.course_name}</h3>
+                            <p><strong>University:</strong> ${university.university_name}</p>
+                            <p><strong>Field of Study:</strong> ${course.field_study}</p>
+                            <p><strong>Duration:</strong> ${course.duration}</p>
+                            <p><strong>Fee:</strong> ${course.fee}</p>
+                            <p><a class="view-details" href="course-details.html?university=${encodeURIComponent(university.university_name)}&course=${encodeURIComponent(course.course_name)}">View Details</a></p>
+                        </div>
+                    `;
+                });
+            });
+            document.getElementById('coursesList').innerHTML = coursesHTML;
+        })
+        .catch(error => console.error('Error loading courses:', error));
+</script>
+
+</body>
+</html>

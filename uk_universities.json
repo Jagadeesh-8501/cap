@@ -1,0 +1,250 @@
+[
+  {
+    "city": "Bolton, Manchester",
+    "university_name": "University of Bolton",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1399536053phpdjQnTp.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-bolton/"
+  },
+  {
+    "city": "Glasgow",
+    "university_name": "Glasgow Caledonian University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1550043160phpSg966f.png",
+    "viewcourse":"https://careeradvicepoint.com/glasgow-caledonian-university/"
+  },
+  {
+    "city": "York",
+    "university_name": "York St John University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1550042456phptZs2N6.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/york-st-john-university/"
+  },
+  {
+    "city": "Norwich",
+    "university_name": "University of East Anglia",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1549865287phpEDOc3T.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-east-anglia/"
+  },
+  {
+    "city": "Oxford",
+    "university_name": "University of Oxford",
+    "intake": ["October"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/college_865_16-14_32_oxford-logo.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/university-of-oxford/"
+  },
+  {
+    "city": "Northampton",
+    "university_name": "University of Northampton",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1550033632phpLF4Nxn.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-northampton/"
+  },
+  {
+    "city": "Farnham",
+    "university_name": "University for the Creative Arts",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1496639966php6x0I9Y.png",
+    "viewcourse":"https://careeradvicepoint.com/university-for-the-creative-arts/"
+  },
+  {
+    "city": "London",
+    "university_name": "University Of Greenwich",
+    "intake": ["January", "September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1492431402phpy4GHRd.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-greenwich/"
+  },
+  {
+    "city": "Belfast",
+    "university_name": "Queen’s University Belfast",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1550044755phpj6fYe6.png",
+    "viewcourse":"https://careeradvicepoint.com/queens-university-belfast/"
+  },
+  {
+    "city": "Leicester",
+    "university_name": "University of Leicester",
+    "intake": ["January", "May", "September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1549955021phpZgZK3f.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-leicester/"
+  },
+  {
+    "city": "Dundee",
+    "university_name": "University of Dundee",
+    "intake": ["January", "September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1588826637phpgY57Z4.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-dundee/"
+  },
+  {
+    "city": "Huddersfield",
+    "university_name": "University of Huddersfield",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/330px-University_of_Huddersfield_new_logo_December_2013-300x115.jpg",
+    "viewcourse":"https://careeradvicepoint.com/university-of-huddersfield/"
+  },
+  {
+    "city": "Bangor",
+    "university_name": "Bangor University",
+    "intake": ["January", "September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1549955071phpuZZTzm.png",
+    "viewcourse":"https://careeradvicepoint.com/bangor-university/"
+  },
+  {
+    "city": "Coventry",
+    "university_name": "Coventry University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1550042425phpWLUlpX.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/coventry-university/"
+  },
+  {
+    "city": "Glasgow",
+    "university_name": "University of Glasgow",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1550037949phpioBxxy.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-glasgow/"
+  },
+  {
+    "city": "London",
+    "university_name": "London South Bank University",
+    "intake": ["January"],
+    "country": "UK",
+    "photo":"https://www.elephantandcastle.org.uk/wp-content/uploads/2015/11/LSBU2SQ.jpg",
+    "viewcourse":"https://careeradvicepoint.com/london-south-bank-university/"
+  },
+  {
+    "city": "Guildford",
+    "university_name": "The University of Law",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"",
+    "viewcourse":"https://careeradvicepoint.com/the-university-of-law/"
+  },
+  {
+    "city": "Leicester",
+    "university_name": "De Montfort University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1398921274phpulHXLA.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/de-montfort-university/"
+  },
+  {
+    "city": "Bath",
+    "university_name": "Bath Spa University",
+    "intake": ["January"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1549964495phpC9EaH4.png",
+    "viewcourse":"https://careeradvicepoint.com/bath-spa-university/"
+  },
+  {
+    "city": "London",
+    "university_name": "Middlesex University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/11/1549966721phpuPewq1.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/middlesex-university/"
+  },
+  {
+    "city": "Southampton",
+    "university_name": "Solent University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://www.britishcouncil.in/sites/default/files/slide30.png",
+    "viewcourse":"https://careeradvicepoint.com/solent-university/"
+  },
+  {
+    "city": "Hertfordshire",
+    "university_name": "University of Hertfordshire",
+    "intake": ["September", "October"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1550043742phpxtGXlO.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-hertfordshire/"
+  },
+  {
+    "city": "Birmingham",
+    "university_name": "Birmingham City University",
+    "intake": ["January", "September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1550043422php8Wkc1i.png",
+    "viewcourse":"https://careeradvicepoint.com/birmingham-city-university/"
+  },
+  {
+    "city": "Wolverhampton",
+    "university_name": "University of Wolverhampton",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1398689312phpj8cnu0.gif",
+    "viewcourse":"https://careeradvicepoint.com/university-of-wolverhampton/"
+  },
+  {
+    "city": "Chester",
+    "university_name": "University of Chester",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1398689312phpj8cnu0.gif",
+    "viewcourse":"https://careeradvicepoint.com/university-of-chester/"
+  },
+  {
+    "city": "Paisley",
+    "university_name": "University Of West Scotland",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1549955174phps46f2H.png",
+    "viewcourse":"https://careeradvicepoint.com/university-of-west-scotland/"
+  },
+  {
+    "city": "Birmingham",
+    "university_name": "University College Birmingham",
+    "intake": ["January", "September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1550030639phpMizw5P.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/university-college-birmingham/"
+  },
+  {
+    "city": "Luton",
+    "university_name": "University of Bedfordshire",
+    "intake": ["October"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1549954995phpBNUre8.jpeg",
+    "viewcourse":"https://careeradvicepoint.com/university-of-bedfordshire/"
+  },
+  {
+    "city": "Liverpool",
+    "university_name": "Liverpool Hope University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1550033556php7FusEC.png",
+    "viewcourse":"https://careeradvicepoint.com/liverpool-hope-university/"
+  },
+  {
+    "city": "Liverpool",
+    "university_name": "Liverpool John Moores University",
+    "intake": ["September"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1550038600phpsgUJIO.png",
+    "viewcourse":"https://careeradvicepoint.com/liverpool-john-moores-university/"
+  },
+  {
+    "city": "Middlesbrough",
+    "university_name": "Teesside University",
+    "intake": ["January"],
+    "country": "UK",
+    "photo":"https://careeradvicepoint.com/wp-content/uploads/2021/10/1549955048phppFytmK.png",
+    "viewcourse":"https://careeradvicepoint.com/teesside-university/"
+  }
+]
